@@ -1,24 +1,23 @@
-# README
+# Craigslist [Clone]
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hi there, stop snooping around my repos.
 
-Things you may want to cover:
+<img src="https://media.giphy.com/media/8Pm9JnGBgQoSKtXPPW/giphy.gif" width=100%>
 
-* Ruby version
+## Ruby Version
 
-* System dependencies
+## System dependencies
 
-* Configuration
+## Configuration
 
-* Database creation
+## Database Creation
 
-* Database initialization
+## Database Initialization
 
-* How to run the test suite
+## Testing
 
-* Services (job queues, cache servers, search engines, etc.)
+## Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
+## Deploy
 
-* ...
+## 
